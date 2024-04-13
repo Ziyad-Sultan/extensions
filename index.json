@@ -1,6 +1,6 @@
 [
   {
-    "name": "Tachiyomi: MangaSlayer",
+    "name": "eu.kanade.tachiyomi.extension.ar.mangaslayer",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaslayer",
     "apk": "tachiyomi-ar.mangaslayer-v1.4.1.apk",
     "lang": "ar",
